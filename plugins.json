@@ -1,0 +1,19 @@
+{
+    "version": "1.0",
+    "updated_at": "2026-09-24T12:00:00Z",
+    "plugins": [
+        {
+            "slug": "birthday",
+            "name": "Cumpleaños del personal",
+            "version": "1.1.0",
+            "author": "SaaS Manager",
+            "description": "Muestra próximos cumpleaños en el dashboard admin y en el worker. Se inyecta solo.",
+            "icon": "bi-gift-fill",
+            "color": "#ec4899",
+            "size": 8500,
+            "download_url": "https://github.com/TU-USUARIO/mi-marketplace/releases/download/plugins-v1/birthday-1.1.0.zip",
+            "changelog": "Añadido widget worker y settings configurables",
+            "requires": { "system_version": "1.0.0" }
+        }
+    ]
+}
