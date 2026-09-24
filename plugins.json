@@ -11,7 +11,7 @@
             "icon": "bi-gift-fill",
             "color": "#ec4899",
             "size": 8500,
-            "download_url": "https://github.com/CaptainJail/SaaSMarketPlace/tree/main/releases/download/plugins-v1",
+            "download_url": "https://raw.githubusercontent.com/CaptainJail/SaaSMarketPlace/refs/heads/main/zips/birthday-1.1.0.zip",
             "changelog": "Añadido widget worker y settings configurables",
             "requires": { "system_version": "1.0.0" }
         }
